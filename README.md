@@ -1,16 +1,15 @@
-### Hi there 👋
+Hi there 👋 I'm Olga, nice to meet you!
 
-<!--
-**koral14/koral14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Junior Software Developer!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a node.js & React project.
+- 🌱 I’m currently learning NodeJS Web Development.
+- 🧙‍♂️ Good at: React, node.js;
+- 👯 I’m looking to collaborate on a node.js & React project.
+- 📫 How to reach me: https://www.linkedin.com/in/olga-musteata-293b10214
+- 😄 Pronouns: she/her
+- ⚡ Other interests: crocheting amigurumi, traveling.
+- 🎯 Career Goal: Senior Software Developer.
+- 🕵🏻‍♂️ Fun facts: live in Sacramento; born in Moldova; visited Italy, Greece, Romania, Ukraine and Bulgaria; plan to visit Spain and Portugal; more or less understand and speack 7 languages...
+  
+Find me at 📝
