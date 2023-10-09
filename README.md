@@ -20,3 +20,21 @@ Find me at 📝
 
 [linkedin]: https://www.linkedin.com/in/olga-musteata-293b10214/
 [medium]: https://github.com/koral14/
+
+<table width="100%" border="1"><tr><td valign="top">
+
+### Frontend  
+<div>  
+<img style="margin: 20px" src="assets/javascript-original.svg" alt="JavaScript" height="50" />   
+<img style="margin: 20px" src="assets/react-original-wordmark.svg" alt="React" height="50" /> 
+</div>
+
+</td><td valign="top">
+
+### Backend  
+<div>  
+<img style="margin: 20px" src="assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
+<img style="margin: 20px" src="assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />     
+</div>
+
+</td></tr></table>
