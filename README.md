@@ -2,7 +2,7 @@ Hi there 👋 I'm Olga, nice to meet you!
 
 I'm a Junior Software Developer!
 
-- 🔭 My last projects: *[React](https://todos-app-sdr5.onrender.com/)*, *[React and Node](https://shelf-share-app.onrender.com/)*
+- 🔭 My last React and Node.js projects: *[My ToDo App](https://todos-app-sdr5.onrender.com/)*, *[ShelfShare App](https://shelf-share-app.onrender.com/)*
 - 🌱 I’m currently gaining experience in NodeJS and React Web Development.
 - 🧙‍♂️ Good at: React, node.js;
 - 📫 How to reach me: *[My Portfolio](https://my-resume-indol.vercel.app/)*
