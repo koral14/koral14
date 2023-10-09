@@ -6,7 +6,7 @@ I'm a Junior Software Developer!
 - 🌱 I’m currently learning NodeJS Web Development.
 - 🧙‍♂️ Good at: React, node.js;
 - 👯 I’m looking to collaborate on a node.js & React project.
-- 📫 How to reach me: *[My Portofolio](https://my-resume-indol.vercel.app/)*
+- 📫 How to reach me: *[My Portfolio](https://my-resume-indol.vercel.app/)*
 - 😄 Pronouns: she/her
 - ⚡ Other interests: crocheting amigurumi, traveling.
 - 🎯 Career Goal: Senior Software Developer.
