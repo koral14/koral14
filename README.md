@@ -25,16 +25,16 @@ Find me at 📝
 
 ### Frontend  
 <div>  
-<img style="margin: 20px" src="assets/javascript-original.svg" alt="JavaScript" height="50" />   
-<img style="margin: 20px" src="assets/react-original-wordmark.svg" alt="React" height="50" /> 
+<img style="margin: 20px" src="images/javascript-original.svg" alt="JavaScript" height="50" />   
+<img style="margin: 20px" src="images/react-original-wordmark.svg" alt="React" height="50" /> 
 </div>
 
 </td><td valign="top">
 
 ### Backend  
 <div>  
-<img style="margin: 20px" src="assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
-<img style="margin: 20px" src="assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />     
+<img style="margin: 20px" src="images/express-original-wordmark.svg" alt="Express.js" height="50" />  
+<img style="margin: 20px" src="images/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />     
 </div>
 
 </td></tr></table>
