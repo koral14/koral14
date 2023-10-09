@@ -3,9 +3,8 @@ Hi there 👋 I'm Olga, nice to meet you!
 I'm a Junior Software Developer!
 
 - 🔭 My last projects: *[React](https://todos-app-sdr5.onrender.com/)*, *[React and Node](https://shelf-share-app.onrender.com/)*
-- 🌱 I’m currently learning NodeJS Web Development.
+- 🌱 I’m currently gaining experience in NodeJS and React Web Development.
 - 🧙‍♂️ Good at: React, node.js;
-- 👯 I’m looking to collaborate on a node.js & React project.
 - 📫 How to reach me: *[My Portfolio](https://my-resume-indol.vercel.app/)*
 - 😄 Pronouns: she/her
 - ⚡ Other interests: crocheting amigurumi, traveling.
