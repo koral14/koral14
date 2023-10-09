@@ -10,7 +10,7 @@ I'm a Junior Software Developer!
 - 😄 Pronouns: she/her
 - ⚡ Other interests: crocheting amigurumi, traveling.
 - 🎯 Career Goal: Senior Software Developer.
-- 🕵🏻‍♂️ Fun facts: live in Sacramento; born in Moldova; visited Italy, Greece, Romania, Ukraine and Bulgaria; plan to visit Spain and Portugal; more or less understand and speack 7 languages...
+- 🕵🏻‍♂️ Fun facts: live in Sacramento; born in *[Moldova](https://moldova-republic.vercel.app/)*; visited Italy, Greece, Romania, Ukraine and Bulgaria; plan to visit Spain and Portugal; more or less understand and speack 7 languages...
   
 Find me at 📝
 <br/>
