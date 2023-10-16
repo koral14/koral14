@@ -5,10 +5,11 @@ I'm a Junior Software Developer!
 - 🔭 My last React and Node.js projects: *[My ToDo App](https://todos-app-sdr5.onrender.com/)*, *[ShelfShare App](https://shelf-share-app.onrender.com/)*, *[Cook Yummy](https://cookyummi.onrender.com/)*
 - 🌱 I’m currently gaining experience in NodeJS and React Web Development.
 - 📫 *[My Portfolio](https://my-resume-indol.vercel.app/)*
+- 🧙 Education: Bachelor's Degree in Computer Science (UTM), Database Management Certificate (ARC), A+ certification 
 - 😄 Pronouns: she/her
-- ⚡ Other interests: crocheting amigurumi, traveling.
 - 🎯 Career Goal: Senior Software Developer.
 - 🕵🏻‍♂️ Fun facts: live in Sacramento; born in *[Moldova](https://moldova-republic.vercel.app/)*; visited Italy, Greece, Romania, Ukraine and Bulgaria; plan to visit Spain and Portugal; more or less understand and speack 7 languages...
+- ⚡ Other interests: crocheting amigurumi, traveling.
   
 Find me at 📝
 <br/>
